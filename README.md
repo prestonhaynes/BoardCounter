@@ -1,0 +1,2 @@
+This project is where I created an app for my own personal use. I wanted to create an app that would track my progress in board breaking. I was able to enter what technique and how many boards I broke through a GUI and store the data with iOS's integrated database implementation.
+The framework for developing this app is very explicit on keeping things in a MVC scheme. Through out this class and working on this project, I became familiar with the methodology of the MVC model.
